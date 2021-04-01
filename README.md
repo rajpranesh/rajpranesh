@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @rajpranesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🛡️ Interested in Cyber Security
+ ![image](https://user-images.githubusercontent.com/70705173/113242774-637db380-92cf-11eb-8965-fa61a49237c9.png)
+Currently learning Web application security 
 
-<!---
-rajpranesh/rajpranesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
